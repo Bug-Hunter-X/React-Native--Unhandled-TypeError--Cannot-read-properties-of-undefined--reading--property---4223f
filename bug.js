@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of an object that is null or undefined.  This is common when dealing with asynchronous data fetching or when component state is not properly initialized.  For example, you might have a state variable `user` that is initially `null` and try to access `user.name` before the data is fetched.
